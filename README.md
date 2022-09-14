@@ -1,7 +1,7 @@
  <h1 align="center">        👋 Hello World, I’m Kar Hian. </h1>
  
 - 🎓 I am a recent graduate from University of Toronto majoring in Computer Science and Statistics.  
-- 📙 I mainly use python for computer science courses and R for statistics courses. RDBMS that is use is PostgreSQL
+- 📙 I mainly use python for computer science courses and R for statistics courses. RDBMS that I use is PostgreSQL
   - Other programming languages which I have used before are Java, Javascript, C, Racket and Haskell
 - 👀 I aspire to be a data scientist and took courses relating to this field in university. 
    - Some of the courses I took are:
